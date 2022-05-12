@@ -17,3 +17,8 @@ source_metadata:
       parent: Epistemology
 created_at: '2022-03-01T05:13:57.090172'
 last_modified_at: '2022-03-01T05:13:57.090175'
+statistics:
+  total_words: 6078
+  total_non_words: 580
+quality:
+  non_words_ratio: 0.1
